@@ -1,2 +1,2 @@
 # Chromium-Course
-I all happens here: [Wiki](https://github.com/mscsbend/Chromium-Course/wiki)
+It all happens [here](https://github.com/mscsbend/Chromium-Course/wiki)
